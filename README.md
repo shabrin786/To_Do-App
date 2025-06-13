@@ -27,5 +27,5 @@ so your list stays even after refreshing or closing the browser.
 
 ---
 
-## 📂 Folder Structure
+
 
