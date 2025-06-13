@@ -17,7 +17,7 @@ so your list stays even after refreshing or closing the browser.
 ---
 
 ## 📸 Preview
-
+![image alt](https://github.com/shabrin786/To_Do-App/blob/main/screenshort.png?raw=true)
 
 ## 🛠️ Built With
 
